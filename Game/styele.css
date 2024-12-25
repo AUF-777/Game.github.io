@@ -1,0 +1,146 @@
+body{
+    font-family: Arial; 
+    background: url('https://avatars.mds.yandex.net/i?id=9beef38550f91810ab131f92cfebd64c_l-5341960-images-thumbs&ref=rim&n=13&w=1005&h=1005')
+}
+
+.Brawl{
+    width: 500px;
+    border-radius: 10px;
+}
+
+.Text{
+     width: 500px;
+    color: #ffffff;
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btm{
+    background:black;
+    padding: 10px;
+    border-radius:100px;
+    text-decoration: none;
+    color: aliceblue;
+    transition: 0.5s;
+    display: block;
+    width: 100px;
+    margin: 10px 0;
+}
+
+.btm:hover{
+    color: #000000;
+    background:#ffffff;
+}
+
+.btm_menu{
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    transition: 0.5s;
+    position: relative;
+    left: 10%;
+    right: 10%;
+    transform: translate(0%,0%)
+}
+
+.btm_menu:hover{
+    color: #000000;
+    background:#ffffff; 
+}
+
+.menu{
+    background:#000000;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    border-radius: 100px;
+}
+
+.Text_Glaf{
+    width: 120px;
+    color: #ffffff;
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Text_roblox{
+    width: 100px;
+    color: #ffffff;
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Text_Minecraft{
+    width: 150px;
+    color: #ffffff;
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Minecraft{
+    width: 500px;
+    border-radius: 10px;
+}
+
+.Text_Terrarria{
+    width: 150px;
+}
+
+.Undrteil{
+    background:black;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.Terrarria{
+    border-radius: 10px;
+}
+
+.roblox{
+    border-radius: 10px;
+}
+
+.Text_Terrarria{
+    width: 130px;
+    color: #ffffff;
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btm_ext{
+    background:black;
+    padding: 10px;
+    border-radius:100px;
+    text-decoration: none;
+    color: aliceblue;
+    transition: 0.5s;
+    display: block;
+    width: 350px;
+    margin: 10px 0;
+}
+
+.btm_ext:hover{
+    color: #000000;
+    background:#ffffff;
+}
+
+.mp3{
+   display: block;
+    margin: 10px 0;
+}
+
+
+.btm_ext:hover{
+  transform: translateX(10px) translateY(0px) translateZ(0px);
+  transform: translate3d(10px, 0px, 0px);
+}
+
+.btm:hover{
+  transform: translateX(10px) translateY(0px) translateZ(0px);
+  transform: translate3d(10px, 0px, 0px);
+}
